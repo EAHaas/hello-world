@@ -1,2 +1,2 @@
 # hello-world
-Checking out this whole GitHub thing
+This is my first real GitHub project thingy, go me!
